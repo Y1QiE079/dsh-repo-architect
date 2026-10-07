@@ -10,10 +10,7 @@ Workflow 编排：并行分析多个子目录，汇总成完整报告。
 Skill 触发：一句话即可启动完整分析流程。
 
 📦 安装   
-确保已安装 DeepSeek Harness 桌面端或 CLI，然后执行：
-dsh plugin --profile web add dsh-repo-architect
-
-或者从 GitHub 直接安装：
+从 GitHub 直接安装：
 dsh plugin --profile web add github:Y1QiE079/dsh-repo-architect
 
 🚀 使用   
