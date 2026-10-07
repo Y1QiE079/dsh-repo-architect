@@ -1,0 +1,3 @@
+- insert:
+  - id: repo-scanner
+    name: dsh-repo-architect

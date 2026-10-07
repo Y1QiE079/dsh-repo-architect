@@ -1,0 +1,5 @@
+node_modules/
+*.tgz
+API Key.txt
+config-dump.txt
+.dsh/
